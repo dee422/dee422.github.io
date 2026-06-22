@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EduRAG 播客精选</title>
+    <link>https://edurang.example.com</link>
+    <description>基于AI生成的高考作文范文播客，提供高质量的语文学习素材。</description>
+    <language>zh-cn</language>
+    <itunes:author>EduRAG团队</itunes:author>
+    <itunes:summary>这是一个专注于高中语文教育的播客，通过AI技术生成优质作文范文，帮助学生提升写作能力。</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://edurang.example.com/podcast-cover.png"/>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <item>
+      <title>阅读下面的材料，根据要求写作。
+
+材料：河南卫视《唐宫夜宴》运用5G+AR技术，让千年文物&quot;活&quot;起来，收获亿万点赞。但也有学者担忧：过度娱乐化是否会消解传统文化的深度？
+
+真正的传承，不是将文化供奉在高阁，而是让它融入当代生活。关键在于把握&quot;度&quot;——既要创新形式，也要守护内核。
+
+请结合材料写一篇文章，谈谈你对传统文化传承的看法。
+
+要求：选准角度，确定立意，明确文体，自拟标题；不要套作，不得抄袭；不少于800字。 - 播客文案 06-22 03:26</title>
+      <description>“所以，你看《唐宫夜宴》，5G+AR，感觉挺酷炫的对不对？亿万点赞！但有个学者说，这会不会让传统文化变成…嗯…什么样？”
+
+“我觉得他说的有道理。毕竟，千年文物‘活’起来，是好事。但是，真的要让它‘活’起来，不能只是为了热闹。”
+
+“关键在于 ‘度’。就像那个学者说的，真正的传承不是把文化供奉在高阁，而是让它融入当代生活。 创新形式固然重要，但更重要的是守护内核，对不对？”
+
+“想想敦煌飞天艺术展，用数字技术还原了那些古老的画作，而且还能互动体验，是不是很棒？ 故宫的VR体验也一样，让人身临其境。”
+
+“但是，如果把一切都搞成娱乐，那文化就可能失去深度。就像… 比如《西游记》那个新版电视剧，虽然特效很炫，但大家讨论最多的还是…嗯…剧情嘛。”
+
+“所以，我们不能简单地否定所有的娱乐化尝试。而是要仔细思考， কোনটা才是对传统文化的尊重。”
+
+“我觉得，科技创新可以赋能传统文化，让它更广为人知。但是， 最终还是要靠我们自己去理解和传承它的精髓。”
+</description>
+      <link>https://edurang.example.com/podcast/a6046802-4f03-45d5-b0da-a9218022583e</link>
+      <guid isPermaLink="true">a6046802-4f03-45d5-b0da-a9218022583e</guid>
+      <pubDate>Mon, 22 Jun 2026 03:26:02 -0000</pubDate>
+      <enclosure url="https://edurang.example.com/audio/a6046802-4f03-45d5-b0da-a9218022583e.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>EduRAG AI</itunes:author>
+      <itunes:subtitle>阅读下面的材料，根据要求写作。
+
+材料：河南卫视《唐宫夜宴》运用5G+AR技术，让千年文物&quot;活&quot;起来，收获亿万点赞。但也有学者担忧：过度娱乐化是否会消解传统文化的深度？
+
+真正的传承，不是将文化供奉在高阁，而是让它融入当代生活。关键在于把握&quot;度&quot;——既要创新形式，也要守护内核。
+
+请结合材料写一篇文章，谈谈你对传统文化传承的看法。
+
+要求：选准角度，确定立意，明确文体，自拟标题；不要套作，不得抄袭；不少于800字。</itunes:subtitle>
+      <itunes:summary>“所以，你看《唐宫夜宴》，5G+AR，感觉挺酷炫的对不对？亿万点赞！但有个学者说，这会不会让传统文化变成…嗯…什么样？”
+
+“我觉得他说的有道理。毕竟，千年文物‘活’起来，是好事。但是，真的要让它‘活’起来，不能只是为了热闹。”
+
+“关键在于 ‘度’。就像那个学者说的，真正的传承不是把文化供奉在高阁，而是让它融入当代生活。 创新形式固然重要，但更重要的是守护内核，对不对？”
+
+“想想敦煌飞天艺术展，用数字技术还原了那些古老的画作，而且还能互动体验，是不是很棒？ 故宫的VR体验也一样，让人身临其境。”
+
+“但是，如果把一切都搞成娱乐，那文化就可能失去深度。就像… 比如《西游记》那个新版电视剧，虽然特效很炫，但大家讨论最多的还是…嗯…剧情嘛。”
+
+“所以，我们不能简单地否定所有的娱乐化尝试。而是要仔细思考， কোনটা才是对传统文化的尊重。”
+
+“我觉得，科技创新可以赋能传统文化，让它更广为人知。但是， 最终还是要靠我们自己去理解和传承它的精髓。”
+</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:01:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
